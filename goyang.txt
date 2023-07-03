@@ -1,4 +1,4 @@
-  Page 1                                    Tue Jan 22 18:03:55 2019
+  Page 1                                    Sun Jan 06 19:04:58 2019
 
   ******************************************************************
   *                           E P A N E T                          *
@@ -9,7 +9,7 @@
   
   EPANET Example (Goyang in Original) 
    
-      Input Data File ................... E:\pend back\ONLINE\GURU DOT COM\1. PHD SUPPORT\MATLAB\2. MATLAB EPANET\OUTPUT_V1\goyang.inp
+      Input Data File ................... E:\pend back\ONLINE\GURU DOT COM\1. PHD SUPPORT\MATLAB\2. MATLAB EPANET\OUTPUT\goyang.inp
       Number of Junctions................ 22
       Number of Reservoirs............... 1
       Number of Tanks ................... 0
@@ -33,6 +33,6 @@
          No Nodes
          No Links
    
-  Analysis begun Tue Jan 22 18:03:55 2019
+  Analysis begun Sun Jan 06 19:04:58 2019
 
-  Analysis ended Tue Jan 22 18:03:55 2019
+  Analysis ended Sun Jan 06 19:04:58 2019

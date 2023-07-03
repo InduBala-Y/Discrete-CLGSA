@@ -1,7 +1,5 @@
-% CLGSA code v1.1.
-% 
-%
-%This function calculates the mass of each agent. eq.14-20
+
+%This function calculates the mass of each agent.
 function [M]=massCalculation(fit,min_flag);
 %%%%here, make your own function of 'mass calculation'
 
@@ -13,13 +11,13 @@ if Fmax==Fmin
 else
     
    if min_flag==1 %for minimization
-      best=Fmin;worst=Fmax; %eq.17-18.
+      best=Fmin;worst=Fmax;
    else %for maximization
-      best=Fmax;worst=Fmin; %eq.19-20.
+      best=Fmax;worst=Fmin; 
    end
   
-   M=(fit-worst)./(best-worst); %eq.15,
+   M=(fit-worst)./(best-worst); 
 
 end
 
-M=M./sum(M); %eq. 16.
+M=M./sum(M); 

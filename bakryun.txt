@@ -1,4 +1,4 @@
-  Page 1                                    Tue Jan 22 18:07:39 2019
+  Page 1                                    Sun Jan 06 18:55:28 2019
 
   ******************************************************************
   *                           E P A N E T                          *
@@ -9,7 +9,7 @@
   
    EPANET Example (BakRyun in Original) 
    
-      Input Data File ................... E:\pend back\ONLINE\GURU DOT COM\1. PHD SUPPORT\MATLAB\2. MATLAB EPANET\OUTPUT_V1\bakryun.inp
+      Input Data File ................... E:\pend back\ONLINE\GURU DOT COM\1. PHD SUPPORT\MATLAB\2. MATLAB EPANET\OUTPUT\bakryun.inp
       Number of Junctions................ 35
       Number of Reservoirs............... 1
       Number of Tanks ................... 0
@@ -33,6 +33,6 @@
          No Nodes
          No Links
    
-  Analysis begun Tue Jan 22 18:07:39 2019
+  Analysis begun Sun Jan 06 18:55:28 2019
 
-  Analysis ended Tue Jan 22 18:07:39 2019
+  Analysis ended Sun Jan 06 18:55:28 2019

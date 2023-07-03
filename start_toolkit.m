@@ -19,10 +19,19 @@ function start_toolkit()
 %
 % See also: none
 
-
+% Author        : Demetrios G. Eliades, Marios Kyriakou
+% Work address  : KIOS Research Center, University of Cyprus
+% email         : eldemet@ucy.ac.cy
+% Website       : http://www.kios.ucy.ac.cy
+% Last revision : September 2016
 
 %------------- BEGIN CODE --------------
 addpath(genpath(pwd));
+%%
+% 
+%  PREFORMATTED
+%  TEXT
+% 
 disp('EPANET-MATLAB Toolkit Paths Loaded.');    
 %------------- END OF CODE --------------
 

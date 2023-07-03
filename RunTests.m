@@ -3,13 +3,13 @@
 addpath(genpath(pwd))
 
 % Based functions
-testFunctions
+testFunctions   
 
 % Msx Functions
 testMSXFunctions
 
 % Bin Functions
-testBinFunctions
+testBinFunctions   
 
 % Run epanet without DLL
 testBinWithoutDLL

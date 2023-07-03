@@ -1,0 +1,38 @@
+  Page 1                                    Thu Jun 13 17:58:50 2019
+
+  ******************************************************************
+  *                           E P A N E T                          *
+  *                   Hydraulic and Water Quality                  *
+  *                   Analysis for Pipe Networks                   *
+  *                         Version 2.1                            *
+  ******************************************************************
+  
+  Balerma Network 
+   
+      Input Data File ................... D:\bala\epanet\6150_INDUYADHAV_FINAL_OUT\BALERMA\balerma.inp
+      Number of Junctions................ 443
+      Number of Reservoirs............... 4
+      Number of Tanks ................... 0
+      Number of Pipes ................... 454
+      Number of Pumps ................... 0
+      Number of Valves .................. 0
+      Headloss Formula .................. Darcy-Weisbach
+      Hydraulic Timestep ................ 1.00 hrs
+      Hydraulic Accuracy ................ 0.001000
+      Status Check Frequency ............ 2
+      Maximum Trials Checked ............ 10
+      Damping Limit Threshold ........... 0.000000
+      Maximum Trials .................... 40
+      Quality Analysis .................. None
+      Specific Gravity .................. 1.00
+      Relative Kinematic Viscosity ...... 1.00
+      Relative Chemical Diffusivity ..... 1.00
+      Demand Multiplier ................. 0.45
+      Total Duration .................... 0.00 hrs
+      Reporting Criteria:
+         All Nodes
+         All Links
+   
+  Analysis begun Thu Jun 13 17:58:50 2019
+
+  Analysis ended Thu Jun 13 17:58:50 2019
